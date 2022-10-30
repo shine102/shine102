@@ -53,7 +53,7 @@
 
 ## 📈 My Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=shine102&count_private=true&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine102&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lamnnthe163248&count_private=true&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamnnthe163248&layout=compact&theme=tokyonight"/>
 </p>
 
