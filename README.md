@@ -5,7 +5,7 @@
 - 🔭 I’m currently a university student.
 - 🌱 Learning everything, but currently interested in DevOps.
 - 👯 And of course, looking for learning and work opportunities too.
-- ⚡ Fun fact: To be honest,  <a href="https://www.youtube.com/watch?v=CAZ8kTQ49c8">I am not gay</a>
+- ⚡ Fun fact: To be honest,  <a href="https://www.youtube.com/watch?v=0Xtf3b4kpW0">I am not gay</a>
 
 <br>
 
