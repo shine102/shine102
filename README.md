@@ -2,23 +2,10 @@
 
 
 ## 👉 About me
-- 🔭 I’m currently a university student.
-- 🌱 Learning everything, but currently interested in DevOps.
+- 🔭 I graduated.
+- 🌱 Learning everything, but currently interested in DevSecOps.
 - 👯 And of course, looking for learning and work opportunities too.
-- ⚡ Fun fact: To be honest,  <a href="https://www.youtube.com/watch?v=0Xtf3b4kpW0">I am not gay</a>
-</p>
-<br>
-<br>
-
-## 🐧 Tools
-<p>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="60px" height="20px" align="left"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="60px" align="left" height="20px"/>
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="20px" width="60px" align="left"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="60px" height="20px" align="left"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="60px" align="left" height="20px"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60px" align="left" height="20px"/>
-
+- ⚡ Fun fact: To be honest,  <a href="https://www.youtube.com/watch?v=0Xtf3b4kpW0">I am (not) gay</a>
 </p>
 
 <br>
