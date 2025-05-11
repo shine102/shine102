@@ -1,11 +1,10 @@
-### Hi there, I'm Shine102 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=shine102&color=yellow)</div>
+### Hi there, I'm shine102 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=shine102&color=yellow)</div>
 
 
 ## 👉 About me
-- 🔭 I graduated.
-- 🌱 Learning everything, but currently interested in DevSecOps.
-- 👯 And of course, looking for learning and work opportunities too.
-- ⚡ Fun fact: To be honest,  <a href="https://www.youtube.com/watch?v=0Xtf3b4kpW0">I am (not) gay</a>
+- 🔭 I recently graduated and am now working as a Cloud Security Engineer. I'm passionate about exploring new technologies in the Cloud and DevOps space.
+- 👜 I have a team specializing in Dev(Sec)Ops and Cloud (Security) Engineering. Feel free to reach out if you have any opportunities in these fields.
+- ⚡ <a href="https://www.youtube.com/watch?v=0Xtf3b4kpW0">My special video for you.</a>
 </p>
 
 <br>
