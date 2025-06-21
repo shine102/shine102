@@ -2,7 +2,7 @@
 
 
 ## 👉 About me
-- 🔭 I recently graduated and am now working as a Cloud Security Engineer. I'm passionate about exploring new technologies in the Cloud and DevOps space.
+- 🔭 I am now working as a Cloud Security Engineer. I'm passionate about exploring new technologies in the Cloud, DevOps, Application Security space.
 - 👜 I have a team specializing in Dev(Sec)Ops and Cloud (Security) Engineering. Feel free to reach out if you have any opportunities in these fields.
 - ⚡ <a href="https://www.youtube.com/watch?v=0Xtf3b4kpW0">My special video for you.</a>
 </p>
